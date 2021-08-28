@@ -1,6 +1,6 @@
 # Noticias
 
-## Agosto
+## Agosto del 2021
 
 ### **19 de Agosto del 2021**
  - Estreno de la semana 1
