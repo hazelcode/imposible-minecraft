@@ -17,5 +17,5 @@
 ### **4 de Septiembre del 2021**
  - Perdónenme chicos, subí la semana tarde
  - La semana 2 ya está **aquí**!!
- - La semana 3 se estrenará mañana
+ - La semana 3 se estrenará la siguiente semana
  - Más dificultad
