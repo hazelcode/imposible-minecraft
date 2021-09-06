@@ -1,3 +1,5 @@
+El datapack requiere de CakeCore (un datapack), descárgalo [aquí](https://github.com/tacozyt/CakeCore/releases/latest)
+
 # Noticias
 
 ## Agosto del 2021
