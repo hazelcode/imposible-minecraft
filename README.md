@@ -1,4 +1,4 @@
-El datapack requiere de CakeCore (un datapack), descárgalo [aquí](https://github.com/tacozyt/CakeCore/releases/latest)
+﻿El datapack requiere de CakeCore (un datapack), descárgalo [aquí](https://github.com/tacozyt/CakeCore/releases/latest)
 
 # Noticias
 
@@ -21,3 +21,8 @@ El datapack requiere de CakeCore (un datapack), descárgalo [aquí](https://gith
  - La semana 2 ya está **aquí**!!
  - La semana 3 se estrenará la siguiente semana
  - Más dificultad
+
+### **11 de Septiembre del 2021**
+ - La semana 3 ya está **aquí**!!
+ - Más dificultad en la semana 3
+ - Prepárense para la semana 4 la siguiente semana!!
