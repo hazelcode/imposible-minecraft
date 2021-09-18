@@ -26,3 +26,8 @@
  - La semana 3 ya está **aquí**!!
  - Más dificultad en la semana 3
  - Prepárense para la semana 4 la siguiente semana!!
+
+### **18 de Septiembre del 2021**
+ - La semana 4 ya está **aquí**!!
+ - Ultra EXTREMO!!
+ - ¿Quieren una siguiente semana?
