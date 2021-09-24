@@ -31,3 +31,7 @@
  - La semana 4 ya está **aquí**!!
  - Ultra EXTREMO!!
  - ¿Quieren una siguiente semana?
+ 
+ ### **24 de Septiembre del 2021**
+ - **Por ahora no tengo pensado crear una semana 5 en ésta semana**
+ - ¡Gracias por jugar y descargar éste datapack!
