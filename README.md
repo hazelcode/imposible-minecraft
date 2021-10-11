@@ -35,3 +35,9 @@
  ### **24 de Septiembre del 2021**
  - **Por ahora no tengo pensado crear una semana 5 en ésta semana**
  - ¡Gracias por jugar y descargar éste datapack!
+
+## Octubre del 2021
+
+ ### **11 de Octubre del 2021**
+  - Nueva carpeta para poner todas las imagenes de las dificultades
+  - Archivo nivelesdificultad.md para describir los niveles de dificultad
